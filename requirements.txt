@@ -1,0 +1,22 @@
+# Core libraries
+streamlit
+python-dotenv
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-chroma
+langchain-groq
+
+# HuggingFace embeddings
+transformers
+sentence-transformers
+
+# PDF parsing (used by PyPDFLoader)
+pypdf
+
+# For basic web requests in WebBaseLoader
+requests
+beautifulsoup4
